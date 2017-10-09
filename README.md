@@ -1,2 +1,2 @@
 # BPR2
-project
+Our dearly beloved project
